@@ -21,4 +21,6 @@ import { PostPageComponent } from './post-page/post-page.component';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+
+}
